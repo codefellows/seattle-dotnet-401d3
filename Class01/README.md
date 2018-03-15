@@ -17,7 +17,7 @@ More information TBD
 # Assignments
 
 ## Readings
-- C# 7.0 in a Nutshell - pg. 158 - 166 (start @ “try Statements and Exceptions)
+- C# 7.0 in a Nutshell - pg. 158 - 166 (start @ â€œtry Statements and Exceptions)
 	- Try/Catch & Exceptions excerpt from assigned book (introduction)
 - [Try/Catch Blocks](https://docs.microsoft.com/en-us/dotnet/standard/exceptions/how-to-use-the-try-catch-block-to-catch-exceptions)
 - [Exception Handling](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/exception-handling-statements)
@@ -26,4 +26,4 @@ More information TBD
 [Lab01: Exception Handling](https://github.com/codefellows-seattle-dotnet-401d3/Lab01-Exception-Handling)
 
 ## Coding Challenge
-- Refer to the Class 01 code challenge assignment in Canvas.
+- Refer to the Class 01 code challenge assignment in Canvas
