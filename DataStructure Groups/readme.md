@@ -1,7 +1,7 @@
 ## Week 1 Data Structure Groups
 
 | Student  1       | Student     2      | Student    3       | Student       4    |
-| ------------- | ------------- | ------------- |:-------------:|
+| ------------- |:-------------:|
 | Austin Matterson (python)   | Brent Williams (.NET)|  Steven Starwalkt (python)     |
 
 | Philip Werner (.NET)     | Beverly Pham(python) | William Johnson (python) | Seokwon Kim (python)    | 
