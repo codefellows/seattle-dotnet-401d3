@@ -24,7 +24,6 @@
 | Steven Starwalt (Python) |  Brent Williams (.NET)    |
 | Austin Matterson (Python) |  George Ceja (Python)    |
 | Kevin Farrow (.NET) |  Beverly Pham (Python)    |
-
 | Ramon Mendoza (Python) |  Philip Werner (.NET)    |
 | Keith Eckert (Python) |  Josh Taylor (.NET)    |
 | Adam Grandquist (Python) |  Brandon Holderman(Python)    |
