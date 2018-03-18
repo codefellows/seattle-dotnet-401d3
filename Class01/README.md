@@ -17,10 +17,18 @@ More information TBD
 # Assignments
 
 ## Readings
+
+### Exception Handling
 - C# 7.0 in a Nutshell - pg. 158 - 166 (start @ “try Statements and Exceptions)
 	- Try/Catch & Exceptions excerpt from assigned book (introduction)
 - [Try/Catch Blocks](https://docs.microsoft.com/en-us/dotnet/standard/exceptions/how-to-use-the-try-catch-block-to-catch-exceptions)
 - [Exception Handling](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/exception-handling-statements)
+
+### Big O
+Use these resources to understand Big O and apply them to your data structures
+- [Understanding Big O](http://computationaltales.blogspot.com/2011/04/understanding-big-o-notation-and.html)
+- [Beginners Guide to Big O](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
+- [Season 1, Episode 6, "A friendly intro to Big O Notation" ](https://www.codenewbie.org/basecs)
 
 ## Lab
 [Lab01: Exception Handling](https://github.com/codefellows-seattle-dotnet-401d3/Lab01-Exception-Handling)
