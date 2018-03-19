@@ -1,4 +1,4 @@
-xccxx# Week 1 Data Structure Groups
+# Week 1 Data Structure Groups
 
 ## Code Challenges 2-4
 
