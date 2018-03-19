@@ -1,4 +1,4 @@
-# Week 1 Data Structure Groups
+xccxx# Week 1 Data Structure Groups
 
 ## Code Challenges 2-4
 
@@ -8,9 +8,9 @@
 | Philip Werner (.NET)     | Beverly Pham(python) | William Johnson (python) | Seokwon Kim (python)    | 
 | Arthur Allen(.NET)      | George Ceja (python)      | Shannon Tully (python) | David Snowberger (python)    |
 | Tyler Fishbone (python)     | Andrii Glukhyi (python) |  Kevin Farrow (.NET)      | Jay Adams(python)      |
-| Gene Peiterson(python) | Josh Taylor(.NET)      | Patricia Raftery(python)      | Brandon Holderman(python) |
+| Gene Peiterson(python) | Josh Taylor(.NET)      | Patricia Raftery(python)      |  |
 | Kieth Eckert (python)      | Ramon Mendoza(python)      | Tiger Hsu (.NET) | Adam Grandquist (python)      |
-| Jeremy Crawford(python) |  Caroline Cosgrove (python)     |	Jasper Kinnay (.NET)   |
+| Jeremy Crawford(python) |  Caroline Cosgrove (python)     |	Brandon Holderman(python) |
 
 
 
@@ -26,8 +26,8 @@
 | Kevin Farrow (.NET) |  Beverly Pham (Python)    |
 | Ramon Mendoza (Python) |  Philip Werner (.NET)    |
 | Keith Eckert (Python) |  Josh Taylor (.NET)    |
-| Adam Grandquist (Python) |  Brandon Holderman(Python)    |
-| David Snowberger (Python) |  Jasper Kinnay (.NET)    |
+| Adam Grandquist (Python) | (Partner with a TA)    |
+| David Snowberger (Python) |   Brandon Holderman(Python)   |
 | Gene Pieterson (Python) |  Arthur Allen (.NET)    |
 | Andrii Glukhyi (Python) |  Shannon Tully (Python)    |
 | Jay Adams (Python) |  Seokwon Kim (Python)    |
