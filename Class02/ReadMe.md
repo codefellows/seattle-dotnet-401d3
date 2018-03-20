@@ -19,6 +19,8 @@
 - Readme's <-- What are they?
 - Proper Structure
 
+## Sample ReadMe.md
+- Located in class repo "Resources" folder
 
 ## Readings
 - [XUnit Documentation](http://xunit.github.io/#documentation)
