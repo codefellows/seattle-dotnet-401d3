@@ -14,6 +14,11 @@
 - Build out app with TDD
 - Show code coverage
 
+## Documentation
+- Why do we need it
+- Readme's <-- What are they?
+- Proper Structure
+
 
 ## Readings
 - [XUnit Documentation](http://xunit.github.io/#documentation)
