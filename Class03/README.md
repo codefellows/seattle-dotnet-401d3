@@ -1,7 +1,26 @@
 # ![cf](http://i.imgur.com/7v5ASc8.png) Class 03
 
 ## Lecture Outline
-TBD
+
+### System IO Library
+ - What is it
+ - Why do we use it
+
+ 1. Writing a file
+ 2. Reading a file
+ 3. Craeting a file
+ 4. Deleting a file
+
+
+## File Stream
+ - What is a stream
+	1. StreamReader
+	2. StreamWriter
+
+## File Types
+- CSV
+- Text
+- Binary
 
 ## Readings
 1. [File and Stream I/O](https://docs.microsoft.com/en-us/dotnet/standard/io/index)
