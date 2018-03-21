@@ -1,0 +1,11 @@
+c:\users\amand\source\repos\ClassDemo2\.vs\ClassDemo2\lut\0\b\ClassDemo2\Debug\netcoreapp2.0\ClassDemo2.deps.json
+c:\users\amand\source\repos\ClassDemo2\.vs\ClassDemo2\lut\0\b\ClassDemo2\Debug\netcoreapp2.0\ClassDemo2.runtimeconfig.json
+c:\users\amand\source\repos\ClassDemo2\.vs\ClassDemo2\lut\0\b\ClassDemo2\Debug\netcoreapp2.0\ClassDemo2.runtimeconfig.dev.json
+c:\users\amand\source\repos\ClassDemo2\.vs\ClassDemo2\lut\0\b\ClassDemo2\Debug\netcoreapp2.0\ClassDemo2.dll
+c:\users\amand\source\repos\ClassDemo2\.vs\ClassDemo2\lut\0\b\ClassDemo2\Debug\netcoreapp2.0\ClassDemo2.pdb
+c:\users\amand\source\repos\ClassDemo2\.vs\ClassDemo2\lut\0\i\ClassDemo2\Debug\netcoreapp2.0\ClassDemo2.csproj.CoreCompileInputs.cache
+c:\users\amand\source\repos\ClassDemo2\.vs\ClassDemo2\lut\0\i\ClassDemo2\Debug\netcoreapp2.0\ClassDemo2.AssemblyInfoInputs.cache
+c:\users\amand\source\repos\ClassDemo2\.vs\ClassDemo2\lut\0\i\ClassDemo2\Debug\netcoreapp2.0\ClassDemo2.AssemblyInfo.cs
+c:\users\amand\source\repos\ClassDemo2\.vs\ClassDemo2\lut\0\i\ClassDemo2\Debug\netcoreapp2.0\ClassDemo2.csproj.CopyComplete
+c:\users\amand\source\repos\ClassDemo2\.vs\ClassDemo2\lut\0\i\ClassDemo2\Debug\netcoreapp2.0\ClassDemo2.dll
+c:\users\amand\source\repos\ClassDemo2\.vs\ClassDemo2\lut\0\i\ClassDemo2\Debug\netcoreapp2.0\ClassDemo2.pdb

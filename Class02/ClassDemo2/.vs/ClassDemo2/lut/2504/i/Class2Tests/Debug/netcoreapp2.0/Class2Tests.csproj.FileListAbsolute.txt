@@ -1,0 +1,15 @@
+c:\users\amand\source\repos\ClassDemo2\.vs\ClassDemo2\lut\0\b\Class2Tests\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\users\amand\source\repos\ClassDemo2\.vs\ClassDemo2\lut\0\b\Class2Tests\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+c:\users\amand\source\repos\ClassDemo2\.vs\ClassDemo2\lut\0\b\Class2Tests\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+c:\users\amand\source\repos\ClassDemo2\.vs\ClassDemo2\lut\0\b\Class2Tests\Debug\netcoreapp2.0\Class2Tests.deps.json
+c:\users\amand\source\repos\ClassDemo2\.vs\ClassDemo2\lut\0\b\Class2Tests\Debug\netcoreapp2.0\Class2Tests.runtimeconfig.json
+c:\users\amand\source\repos\ClassDemo2\.vs\ClassDemo2\lut\0\b\Class2Tests\Debug\netcoreapp2.0\Class2Tests.runtimeconfig.dev.json
+c:\users\amand\source\repos\ClassDemo2\.vs\ClassDemo2\lut\0\b\Class2Tests\Debug\netcoreapp2.0\Class2Tests.dll
+c:\users\amand\source\repos\ClassDemo2\.vs\ClassDemo2\lut\0\b\Class2Tests\Debug\netcoreapp2.0\Class2Tests.pdb
+c:\users\amand\source\repos\ClassDemo2\.vs\ClassDemo2\lut\0\i\Class2Tests\Debug\netcoreapp2.0\Class2Tests.csproj.CoreCompileInputs.cache
+c:\users\amand\source\repos\ClassDemo2\.vs\ClassDemo2\lut\0\i\Class2Tests\Debug\netcoreapp2.0\Class2Tests.AssemblyInfoInputs.cache
+c:\users\amand\source\repos\ClassDemo2\.vs\ClassDemo2\lut\0\i\Class2Tests\Debug\netcoreapp2.0\Class2Tests.AssemblyInfo.cs
+c:\users\amand\source\repos\ClassDemo2\.vs\ClassDemo2\lut\0\i\Class2Tests\Debug\netcoreapp2.0\Class2Tests.csproj.CopyComplete
+c:\users\amand\source\repos\ClassDemo2\.vs\ClassDemo2\lut\0\i\Class2Tests\Debug\netcoreapp2.0\Class2Tests.dll
+c:\users\amand\source\repos\ClassDemo2\.vs\ClassDemo2\lut\0\i\Class2Tests\Debug\netcoreapp2.0\Class2Tests.pdb
+c:\users\amand\source\repos\ClassDemo2\.vs\ClassDemo2\lut\0\i\Class2Tests\Debug\netcoreapp2.0\Class2Tests.csprojResolveAssemblyReference.cache
