@@ -1,0 +1,11 @@
+c:\users\amand\source\repos\Class04Demo\Class04Demo\bin\Debug\netcoreapp2.0\Class04Demo.deps.json
+c:\users\amand\source\repos\Class04Demo\Class04Demo\bin\Debug\netcoreapp2.0\Class04Demo.runtimeconfig.json
+c:\users\amand\source\repos\Class04Demo\Class04Demo\bin\Debug\netcoreapp2.0\Class04Demo.runtimeconfig.dev.json
+c:\users\amand\source\repos\Class04Demo\Class04Demo\bin\Debug\netcoreapp2.0\Class04Demo.dll
+c:\users\amand\source\repos\Class04Demo\Class04Demo\bin\Debug\netcoreapp2.0\Class04Demo.pdb
+c:\users\amand\source\repos\Class04Demo\Class04Demo\obj\Debug\netcoreapp2.0\Class04Demo.csprojResolveAssemblyReference.cache
+c:\users\amand\source\repos\Class04Demo\Class04Demo\obj\Debug\netcoreapp2.0\Class04Demo.csproj.CoreCompileInputs.cache
+c:\users\amand\source\repos\Class04Demo\Class04Demo\obj\Debug\netcoreapp2.0\Class04Demo.AssemblyInfoInputs.cache
+c:\users\amand\source\repos\Class04Demo\Class04Demo\obj\Debug\netcoreapp2.0\Class04Demo.AssemblyInfo.cs
+c:\users\amand\source\repos\Class04Demo\Class04Demo\obj\Debug\netcoreapp2.0\Class04Demo.dll
+c:\users\amand\source\repos\Class04Demo\Class04Demo\obj\Debug\netcoreapp2.0\Class04Demo.pdb
