@@ -2,12 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\Class01",
-    "\\Data_Structures",
+    "\\Class03",
+    "\\Class05",
     "\\Data_Structures\\Data_Structures_and_Algorithms",
-    "\\Data_Structures\\Data_Structures_and_Algorithms\\Challenges",
     "\\Data_Structures\\Data_Structures_and_Algorithms\\Challenges\\FizzBuzz",
-    "\\Data_Structures\\Data_Structures_and_Algorithms\\Data_Structures"
+    "\\Data_Structures\\Data_Structures_and_Algorithms\\Challenges\\FizzBuzz\\FizzBuzzTests",
+    "\\Data_Structures\\Implementations",
+    "\\Resources"
   ],
-  "SelectedNode": "\\Class01",
+  "SelectedNode": "\\Class04",
   "PreviewInSolutionExplorer": false
 }
