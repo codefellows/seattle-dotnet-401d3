@@ -7,11 +7,13 @@
 | Patricia Raftery (Python) | Caroline Cosgrove (Python) | Beverly Pham (Python) |
 | Ramon Mendoza (Python) |  Steven Starwalt (Python) | Brent Williams (.NET) |
 | Keith Eckert (Python) | Adam Grandquist (Python) | Jay Adams (Python) |
-| Andrii Glukhyi (Python) | Gene Pieterson (Python) | Brandon Holderman (Python) | Philip Werner (.NET) |
+| Andrii Glukhyi (Python) | Gene Pieterson (Python) | Brandon Holderman (Python) |
 | Shannon Tully (Python) | William Johnson (Python) | Kevin Farrow (.NET)
 | Seokwon Kim (Python) | Josh Taylor (.NET) | Austin Matterson (Python) |
 | Arthur Allen (.NET) | Tyler Fishbone (Python) | George Ceja (Python) |
-| David Snowberger (Python) | Tiger Hsu (.NET) | Jeremy Crawford (Python) | 
+| David Snowberger (Python) | Tiger Hsu (.NET) | |
+| Jeremy Crawford (Python) | Philip Werner (.NET) | | 
+
 
 
 ## Mock Interview Groups Day 10
