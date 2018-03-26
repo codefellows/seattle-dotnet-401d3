@@ -1,4 +1,4 @@
-# Week 1 Data Structure Groups
+# Week 2 Data Structure Groups
 
 ## Code Challenge Groups 6-9
 
@@ -14,7 +14,7 @@
 | David Snowberger (Python) | Tiger Hsu (.NET) | Jeremy Crawford (Python) | 
 
 
-## Mock Interview Groups Day 5
+## Mock Interview Groups Day 10
 
 | Student  1       | Student     2      |
 | ------------- |:-------------:|
@@ -33,6 +33,7 @@
 | Adam Grandquist (Python) | Josh Taylor (.NET) |
 
 
+# Week 1 Data Structure Groups
 
 ## Code Challenges 2-4
 
