@@ -18,9 +18,30 @@ like a review.
 Here is the general breakdown of the topics we will be covering by week:
 
 1. C# Basic Fundamentals
+	1. Exception Handling
+	2. Unit Testing & Documentation
+	3. System.IO & File Manipulation
+	4. Classes & Garbage Collection
+	5. OOP principles
 2. C# Advanced Fundamentals
+	1. Interfaces
+	2. Collections
+	3. LINQ
+	4. Asynchronous Programming
+	5. Review 
 3. MVC and Entity Framework with Azure Deployment
+	1. MVC - Intro
+	2. Scaffolding out a CRUD app
+	3. Code First Migration of a CRUD app
+	4. Repositories & Azure Deployment
+	5. Design Patterns
 4. Web APIs (creation and consumption)
+	1. Intro to APIs & Single Resources
+	2. Double Resources
+	3. Consuming an External API
+	4. Project Kickoff
+	5. Career Coaching
+
 5. (Project Week)
 6. .NET Core Identity
 7. Security Standards
