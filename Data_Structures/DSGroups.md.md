@@ -11,8 +11,9 @@
 | Austin Matterson (Python) | Tyler Fishbone (Python) | Brandon Holderman (Python) |
 | Ramon Mendoza (Python) | Kevin Farrow (.NET) |
 | Shannon Tully (Python) | Patricia Raftery (Python) | Seokwon Kim (Python) |
-| Keith Eckert (Python) | Steven Starwalt (Python) | Josh Taylor (.NET) |
-| Adam Grandquist (Python) | David Snowberger (Python) | Arthur Allen (.NET) |
+| Josh Taylor (.NET) | David Snowberger (Python) |
+| Adam Grandquist (Python) | Arthur Allen (.NET) |
+| Keith Eckert (Python) | Steven Starwalt (Python) |
 
 ## Mock Interview Groups Day 15
 
