@@ -1,4 +1,4 @@
-# Linked Lists
+# Stacks and Queues
 
 Reflecting back on the stacks and queue lecture in class, implement both a stack and a queue within Visual Studio. 
 Implement a `Stack` and a `Queue` with the following methods:
