@@ -1,15 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Class01",
-    "\\Class03",
-    "\\Class05",
-    "\\Data_Structures\\Data_Structures_and_Algorithms",
-    "\\Data_Structures\\Data_Structures_and_Algorithms\\Challenges\\FizzBuzz",
-    "\\Data_Structures\\Data_Structures_and_Algorithms\\Challenges\\FizzBuzz\\FizzBuzzTests",
+    "\\Class10",
+    "\\Class11",
     "\\Data_Structures\\Implementations",
-    "\\Resources"
+    "\\Data_Structures\\Implementations\\Assets"
   ],
-  "SelectedNode": "\\Class04",
+  "SelectedNode": "\\Class11\\readme.md",
   "PreviewInSolutionExplorer": false
 }
