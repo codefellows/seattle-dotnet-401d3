@@ -1,0 +1,40 @@
+﻿@model List<string>
+
+@{
+// string myName = "John";
+}
+
+@*Hello from Our index View!!! YAAAAY!*@
+
+
+@*@if (myName == "Amanda")
+{
+    <p> Hello @myName</p>
+} else
+{
+    <p>Hello Not Amanda</p>
+
+}*@
+
+@*@foreach (var item in Model)
+{
+    <p>@item</p>
+}*@
+
+<head>
+    <link rel="stylesheet" href="~/StyleSheet.css" type="text/css" />
+</head>
+<form method="post">
+
+    <label for="Name">Name: </label>
+    <input maxlength="10" name="Name" />
+
+    <label for="Color">Color: </label>
+    <input maxlength="10" name="Color" />
+
+    <button type="submit">Submit</button>
+
+</form>
+
+
+

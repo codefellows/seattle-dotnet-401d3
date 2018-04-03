@@ -1,0 +1,8 @@
+﻿@model List<Class11Demo.Models.Student>
+
+Hello from the studetns page
+
+@foreach (var item in Model)
+{
+    <p>@item.Name favorite color is @item.Color </p>
+}
