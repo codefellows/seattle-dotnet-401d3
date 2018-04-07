@@ -14,7 +14,5 @@ Your final project should have
 2. Tree class
 3. Program Class.
 
-
-Implement a Tree with multiple nodes and output each of the traversals in your `Main()` Method. 
-
+Implement a Tree with multiple nodes and output each of the traversals in your `Main()` Method. <br />
 Be sure to create unit tests to prove your tree is working as expected.
