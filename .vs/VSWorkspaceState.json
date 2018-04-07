@@ -1,11 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Class10",
-    "\\Class11",
-    "\\Data_Structures\\Implementations",
-    "\\Data_Structures\\Implementations\\Assets"
+    "\\Data_Structures",
+    "\\Data_Structures\\Implementations"
   ],
-  "SelectedNode": "\\Class11\\readme.md",
+  "SelectedNode": "\\Data_Structures\\Implementations\\BinaryTree.md",
   "PreviewInSolutionExplorer": false
 }

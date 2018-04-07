@@ -4,6 +4,29 @@
 ## Lecture
 1. Testing Controllers in MVC
 
+
+1. For a Database connection usign a DBContext:
+
+```csharp
+
+public void MyTestMethod()
+{
+	DbContextOptions<HunterDbContext> options = new DbContextOptionsBuilder<HunterDbContext>()
+            .UseInMemoryDatabase("MyDbName")
+            .Options;
+
+	using (HunterDbContext _context = new HunterDbContext(options))
+	{
+	   MaterialController controller = new MaterialController(_context);
+	   int tableCount = controller.Get().Count();
+	   Assert.Equal(0, tableCount);
+
+	}
+}
+ 
+
+```
+
 # Assignments
 
 ## Readings
