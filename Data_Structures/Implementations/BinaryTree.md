@@ -6,13 +6,20 @@ A Visual Example of a Binary tree is located in the Assets Folder of this direct
 <br />
 The example code we created in class is in the Examples folder in this directory. 
 
-1. .Add(Node node) - adds a node to the Binary Tree
+
+Please implement the following:
 1. Pre-order, InOrder, PostOrder
+
+Manually add nodes to your tree and conduct each of the traversals on your tree. 
+Your unit tests should prove the order of the output is expected
+
 
 Your final project should have
 1. Node class, 
 2. Tree class
 3. Program Class.
 
-Implement a Tree with multiple nodes and output each of the traversals in your `Main()` Method. <br />
-Be sure to create unit tests to prove your tree is working as expected.
+
+## Stretch
+1. .Add(Node node) - adds a node to the Binary Tree
+
