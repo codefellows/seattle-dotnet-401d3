@@ -1,3 +1,37 @@
+# Week4 Data Structure Groups
+
+| Student  1       | Student     2      |
+| ------------- |:-------------:|
+|Brent Williams (.NET) | Jay Adams (Python) |
+|Seokwon Kim (Python) | Steven Starwalt (Python) |
+|Andrii Glukhyi (Python) | Beverly Pham (Python) |
+|Philip Werner (.NET) | Brandon Holderman (Python) |
+|Gene Pieterson (Python) | Tiger Hsu (.NET) |
+|David Snowberger (Python) | Ramon Mendoza (Python) |
+| Tyler Fishbone (Python) | Kevin Farrow (.NET) |
+|Jeremy Crawford (Python) | George Ceja (Python) |
+|Caroline Cosgrove (Python) | Josh Taylor (.NET) |
+|Adam Grandquist (Python) | Shannon Tully (Python) |
+|Arthur Allen (.NET) | Keith Eckert (Python) |
+|Austin Matterson (Python) | Patricia Raftery (Python)|
+
+## Mock Interviews Day 19
+| Student  1       | Student     2      |
+| ------------- |:-------------:|
+|Jay Adams (Python) | Ramon Mendoza (Python) |
+|Josh Taylor (.NET) | Philip Werner (.NET) |
+|Adam Grandquist (Python) | Caroline Cosgrove (Python) |
+|Beverly Pham (Python) | Gene Pieterson (Python) |
+|Tiger Hsu (.NET) | Keith Eckert (Python) |
+|Jeremy Crawford (Python) | Brent Williams (.NET) |
+|David Snowberger (Python) | Austin Matterson (Python) |
+|Andrii Glukhyi (Python) | Kevin Farrow (.NET) |
+|Brandon Holderman (Python) | George Ceja (Python) |
+|Steven Starwalt (Python) | Arthur Allen (.NET) |
+|Tyler Fishbone (Python) | Patricia Raftery (Python) | 
+|Shannon Tully (Python) | Seokwon Kim (Python) |
+
+
 # Week 3 Data Structure Groups
 
 ## Code Challenge Groups 11-14
