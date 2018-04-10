@@ -1,0 +1,11 @@
+C:\Users\amand\source\repos\Class16Demo\Class16Demo\bin\Debug\netcoreapp2.0\Class16Demo.deps.json
+C:\Users\amand\source\repos\Class16Demo\Class16Demo\bin\Debug\netcoreapp2.0\Class16Demo.runtimeconfig.json
+C:\Users\amand\source\repos\Class16Demo\Class16Demo\bin\Debug\netcoreapp2.0\Class16Demo.runtimeconfig.dev.json
+C:\Users\amand\source\repos\Class16Demo\Class16Demo\bin\Debug\netcoreapp2.0\Class16Demo.dll
+C:\Users\amand\source\repos\Class16Demo\Class16Demo\obj\Debug\netcoreapp2.0\Class16Demo.csprojResolveAssemblyReference.cache
+C:\Users\amand\source\repos\Class16Demo\Class16Demo\obj\Debug\netcoreapp2.0\Class16Demo.csproj.CoreCompileInputs.cache
+C:\Users\amand\source\repos\Class16Demo\Class16Demo\obj\Debug\netcoreapp2.0\Class16Demo.AssemblyInfoInputs.cache
+C:\Users\amand\source\repos\Class16Demo\Class16Demo\obj\Debug\netcoreapp2.0\Class16Demo.AssemblyInfo.cs
+C:\Users\amand\source\repos\Class16Demo\Class16Demo\bin\Debug\netcoreapp2.0\Class16Demo.pdb
+C:\Users\amand\source\repos\Class16Demo\Class16Demo\obj\Debug\netcoreapp2.0\Class16Demo.dll
+C:\Users\amand\source\repos\Class16Demo\Class16Demo\obj\Debug\netcoreapp2.0\Class16Demo.pdb
