@@ -66,3 +66,6 @@
 - App Services
 - SQL Server
 - Continuous Deployment
+
+## API Documentation
+- Use Swagger for your custom API Documentation.
