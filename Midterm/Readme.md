@@ -2,10 +2,11 @@
 - Group agreement
 - Git Hub set up
 - User Stories 
-- VSOnline setup
+- VSOnline setup (this is where your user stories will live)
 
 ## Design/Requirements
-- Design Diagram for your database
+**Design and planning assets must be completed before starting any code**
+- Database schema for your database
 - Design Diagram on your project layout
 	- WireFrames
 	- Work flow
