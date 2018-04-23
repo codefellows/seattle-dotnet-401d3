@@ -8,7 +8,7 @@
 - Minimal MVP identified
 
 ### Monday: <br /> 
-**11:00am**: Morning Standup <br />
+**10:00am**: Morning Standup <br />
 **5:00pm**: Evening Demo <br />
 
 <u>Milestones</u><br />
