@@ -1,33 +1,36 @@
 # Week 6:
-
-Ramon Mendoza (Python) | Keith Eckert (Python) |
-David Snowberger (Python) | Gene Pieterson (Python) |
-Shannon Tully (Python) | Tiger Hsu (.NET) |
-Jay Adams (Python) | Kevin Farrow (.NET) |
-Brent Williams (.NET) | Arthur Allen (.NET) |
-George Ceja (Python) | Brandon Holderman (Python) |
-Josh Taylor (.NET) | Jeremy Crawford (Python) |
-Philip Werner (.NET) | Tyler Fishbone (Python) |
-Beverly Pham (Python) | Adam Grandquist (Python) |
-Steven Starwalt (Python) | Seokwon Kim (Python) |
-Austin Matterson (Python) | Caroline Cosgrove (Python) |
-Andrii Glukhyi (Python) | Patricia Raftery (Python) |
+| Student  1       | Student     2      |
+| ------------- |:-------------:|
+| Ramon Mendoza (Python) | Keith Eckert (Python) |
+| David Snowberger (Python) | Gene Pieterson (Python) |
+| Shannon Tully (Python) | Tiger Hsu (.NET) |
+| Jay Adams (Python) | Kevin Farrow (.NET) |
+| Brent Williams (.NET) | Arthur Allen (.NET) |
+| George Ceja (Python) | Brandon Holderman (Python) |
+| Josh Taylor (.NET) | Jeremy Crawford (Python) |
+| Philip Werner (.NET) | Tyler Fishbone (Python) |
+| Beverly Pham (Python) | Adam Grandquist (Python) |
+| Steven Starwalt (Python) | Seokwon Kim (Python) |
+| Austin Matterson (Python) | Caroline Cosgrove (Python) |
+| Andrii Glukhyi (Python) | Patricia Raftery (Python) |
  
 
 ## Mock Interviews Day 29
 
-Jay Adams (Python) | Josh Taylor (.NET) |
-Tyler Fishbone (Python) | Tiger Hsu (.NET) |
-Seokwon Kim (Python) | Shannon Tully (Python) |
-Andrii Glukhyi (Python) | David Snowberger (Python) |
-Adam Grandquist (Python) | Philip Werner (.NET) |
-Austin Matterson (Python) | Gene Pieterson (Python) |
-Ramon Mendoza (Python) | Brent Williams (.NET) |
-Patricia Raftery (Python) | Steven Starwalt (Python) |
-Kevin Farrow (.NET) | Jeremy Crawford (Python) |
-Caroline Cosgrove (Python) | Arthur Allen (.NET) |
-George Ceja (Python) | Brandon Holderman (Python) |
-Keith Eckert (Python) | Beverly Pham (Python) |
+| Student  1       | Student     2      |
+| ------------- |:-------------:|
+| Jay Adams (Python) | Josh Taylor (.NET) |
+| Tyler Fishbone (Python) | Tiger Hsu (.NET) |
+| Seokwon Kim (Python) | Shannon Tully (Python) |
+| Andrii Glukhyi (Python) | David Snowberger (Python) |
+| Adam Grandquist (Python) | Philip Werner (.NET) |
+| Austin Matterson (Python) | Gene Pieterson (Python) |
+| Ramon Mendoza (Python) | Brent Williams (.NET) |
+| Patricia Raftery (Python) | Steven Starwalt (Python) |
+| Kevin Farrow (.NET) | Jeremy Crawford (Python) |
+| Caroline Cosgrove (Python) | Arthur Allen (.NET) |
+| George Ceja (Python) | Brandon Holderman (Python) |
+| Keith Eckert (Python) | Beverly Pham (Python) |
  
 
 # Week4 Data Structure Groups
