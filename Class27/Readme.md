@@ -14,4 +14,4 @@
 - [Intro to Authentication in .NET Core](https://andrewlock.net/introduction-to-authentication-with-asp-net-core/)
 
 ## Lab Assignment:
-[Day 1](https://github.com/codefellows-seattle-dotnet-401d3/Week6-ECommerce-Store)
+[Day 2](https://github.com/codefellows-seattle-dotnet-401d3/Week6-ECommerce-Store)
