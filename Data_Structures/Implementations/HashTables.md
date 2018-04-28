@@ -11,13 +11,15 @@ type of uses you would use this for.
 
 ## Directions
 
-Implement a Hashtable with an insertion that hashes the key. 
+Implement a Hashtable with an insertion that hashes the key & a lookup to get the value given a key. 
+
 
 ## Specs
 
 Upon completion, your Hashtable should be able to handle the following:
-1. Add an item to a hashtable.
-1. Make a hashing algorithm that will determine and set the Key of your Key/Value Pair
+1. Add an item to a hashtable.(Method name: `Add(key, value)`)
+1. Get a value from a key (Method name: `Contains(key)`)
+1. Make a hashing algorithm that will determine and set the Key of your Key/Value Pair(Method Name: `GetHash(key)`)
 1. Handle collisions in the event that 2 keys equal the same
 
 ## Rubric
