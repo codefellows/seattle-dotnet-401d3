@@ -1,0 +1,11 @@
+﻿@model IEnumerable<Week6IdentityDemo.Models.Post>
+
+<div>
+    <h2>Our Posts</h2>
+
+@foreach (var item in Model)
+{
+    <h4> @item.Title</h4>
+    <p>@item.Description</p>
+}
+</div>

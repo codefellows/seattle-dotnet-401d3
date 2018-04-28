@@ -1,0 +1,19 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using Week6IdentityDemo.Models
+
+
+@if (User.Identity.IsAuthenticated)
+{
+    <h2>Hello @User.Identity.Name</h2>
+}
+else
+{
+    <h2>Hello Stranger</h2>
+
+}
+
+
+    <h3>Hello From the Home Controller!</h3>
+
+
+@await  Component.InvokeAsync("TopPosts", 3)
