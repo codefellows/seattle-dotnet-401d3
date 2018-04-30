@@ -6,7 +6,6 @@
 # Assignments 
 
 ## Readings
-Read the following articles and skim over the different ways to enable it for the different providers
 - [Send Emails using SendGrid](https://docs.microsoft.com/en-us/azure/sendgrid-dotnet-how-to-send-email)
 
 ## Lab
