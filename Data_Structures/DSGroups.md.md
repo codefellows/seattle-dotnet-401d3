@@ -1,3 +1,13 @@
+# Week 7
+
+## Day 31-33
+Work individually on the whiteboard. 
+Timebox yourself to 60 minutes. 
+
+## Mock Interview Groups Day 34
+
+TBD....
+
 # Week 6:
 | Student  1       | Student     2      |
 | ------------- |:-------------:|
