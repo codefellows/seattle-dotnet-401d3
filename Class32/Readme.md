@@ -7,6 +7,7 @@
 
 ## Readings
 - [Authorize.NET](https://developer.authorize.net/hello_world/)
+- [Testing Guide](https://developer.authorize.net/hello_world/testing_guide/)
 - [Customer Profiles](https://developer.authorize.net/api/reference/index.html)
 - [API Documentation](https://developer.authorize.net/api/)
 - [Sandbox Account](https://sandbox.authorize.net/)
