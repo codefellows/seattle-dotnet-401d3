@@ -14,7 +14,7 @@
 - [Razor Pages Portfolio]()
 
 ## Weekend Implementation
-- [Insertion Sort Implemetnation]()
+- [Insertion Sort](https://github.com/codefellows/seattle-dotnet-401d3/blob/master/Data_Structures/Implementations/Insertion.md)
 
 
 

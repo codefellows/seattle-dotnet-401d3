@@ -2,7 +2,6 @@
 
 ## Lecture
 
-
 # Assignments 
 
 ## Career Coaching Presentation (May 18th)
