@@ -11,7 +11,7 @@
 - [Razor Pages .NET Conf (~60 min)](https://www.youtube.com/watch?v=yyBijyCI5Sk)
 
 ## Lab
-- [Razor Pages Portfolio]()
+- [Razor Pages Portfolio](https://github.com/codefellows-seattle-dotnet-401d3/Razor-Pages-Portfolio)
 
 ## Weekend Implementation
 - [Insertion Sort](https://github.com/codefellows/seattle-dotnet-401d3/blob/master/Data_Structures/Implementations/Insertion.md)
