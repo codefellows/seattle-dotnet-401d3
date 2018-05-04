@@ -20,6 +20,7 @@ Timebox yourself to 60 minutes.
 | Tyler Fishbone (Python) | Ramon Mendoza (Python) |
 | Steven Starwalt (Python) | {With a TA} | 
 
+
 # Week 6:
 | Student  1       | Student     2      |
 | ------------- |:-------------:|
