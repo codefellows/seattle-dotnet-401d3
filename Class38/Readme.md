@@ -1,6 +1,6 @@
 # ![cf](http://i.imgur.com/7v5ASc8.png) Class 38: Razor Pages pt 2
 ## Lecture
-
+**Lecture will be held in Hopper at 9AM**
 
 # Assignments 
 

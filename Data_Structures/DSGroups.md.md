@@ -1,3 +1,21 @@
+# Week 8 - 
+
+## Mock interview Groups Day 39
+| Student  1       | Student     2      |
+| ------------- |:-------------:|
+|Andrii Glukhyi (Python) | Tiger Hsu (.NET) |
+|Steven Starwalt (Python) | Josh Taylor (.NET) |
+|Adam Grandquist (Python) | Patricia Raftery (Python) |
+|Jay Adams (Python) | David Snowberger (Python) |
+|Seokwon Kim (Python) | Gene Pieterson (Python) |
+|Brandon Holderman (Python) | Shannon Tully (Python) |
+|Caroline Cosgrove (Python) | Beverly Pham (Python) |
+|Keith Eckert (Python) | Kevin Farrow (.NET) |
+|Brent Williams (.NET) | Philip Werner (.NET) |
+|George Ceja (Python) | Jeremy Crawford (Python) |
+|Ramon Mendoza (Python) | Tyler Fishbone (Python) |
+|Austin Matterson (Python) | {With a TA} |
+
 # Week 7
 
 ## Day 31-33
