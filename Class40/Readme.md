@@ -1,4 +1,4 @@
-# ![cf](http://i.imgur.com/7v5ASc8.png) Class 39: Azure Blob Storage
+# ![cf](http://i.imgur.com/7v5ASc8.png) Class 40: MVC 5
 ## Lecture
 
 
@@ -8,11 +8,9 @@
 - [Presentation Requirements](https://docs.google.com/presentation/d/1T_tZ3T-TSXNS6f-mt-As_LAtzdbZYewnCcwak8jIjdk/edit?usp=sharing)
 
 ## Readings
-- [Intro to Azure blob](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction)
-- [Azure BLOB quickstart  ](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-dotnet?tabs=windows)
-- [Azure Storage Documentation](https://docs.microsoft.com/en-us/azure/storage/)
+- [Intro to MVC 5](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/)
+- [Web Forms](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/getting-started/getting-started-with-aspnet-45-web-forms/introduction-and-overview)
 
 ## Lab
-- No Lab, Do your CC assignment and catch up on previous work. 
-
+-[Build MVC 5 App]()
 
