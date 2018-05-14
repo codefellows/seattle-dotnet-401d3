@@ -1,3 +1,70 @@
+# Week 9
+
+## Mock interview Groups Day 41
+| Student  1       | Student     2      |
+| ------------- |:-------------:|
+|Caroline Cosgrove (Python) | George Ceja (Python) |
+|Brent Williams (.NET) | Tyler Fishbone (Python) |
+|David Snowberger (Python) | Shannon Tully (Python) |
+|Gene Pieterson (Python) | Jay Adams (Python) |
+|Austin Matterson (Python) | Seokwon Kim (Python) |
+|Kevin Farrow (.NET) | Brandon Holderman (Python) |
+|Tiger Hsu (.NET) | Adam Grandquist (Python) |
+|Ramon Mendoza (Python) | Steven Starwalt (Python) |
+|Philip Werner (.NET) | Keith Eckert (Python) |
+|Patricia Raftery (Python) | Andrii Glukhyi (Python) |
+|Josh Taylor (.NET) | Beverly Pham (Python) |
+|Jeremy Crawford (Python) | {TA}
+
+## Mock interview Groups Day 42
+| Student  1       | Student     2      |
+| ------------- |:-------------:|
+|Jay Adams (Python) | David Snowberger (Python) |
+|Patricia Raftery (Python) | Ramon Mendoza (Python) |
+|Brent Williams (.NET) | Seokwon Kim (Python) |
+|Gene Pieterson (Python) | George Ceja (Python) |
+|Kevin Farrow (.NET) | Beverly Pham (Python) |
+|Caroline Cosgrove (Python) | Brandon Holderman (Python) |
+|Tiger Hsu (.NET) | Tyler Fishbone (Python) |
+|Adam Grandquist (Python) | Keith Eckert (Python) |
+|Philip Werner (.NET) | Steven Starwalt (Python) |
+|Austin Matterson (Python) | Josh Taylor (.NET) |
+|Andrii Glukhyi (Python) | Jeremy Crawford (Python) |
+|Shannon Tully (Python) | {TA}
+
+## Mock interview Groups Day 43
+| Student  1       | Student     2      |
+| ------------- |:-------------:|
+|Shannon Tully (Python) | Kevin Farrow (.NET) |
+|Jeremy Crawford (Python) | Seokwon Kim (Python) |
+|Tyler Fishbone (Python) | Caroline Cosgrove (Python) |
+|Josh Taylor (.NET) | Patricia Raftery (Python) |
+|Keith Eckert (Python) | David Snowberger (Python) |
+|Adam Grandquist (Python) | Philip Werner (.NET) |
+|Ramon Mendoza (Python) | Austin Matterson (Python) |
+|George Ceja (Python) | Steven Starwalt (Python) |
+|Brandon Holderman (Python) | Beverly Pham (Python) |
+|Tiger Hsu (.NET) | Gene Pieterson (Python) |
+|Jay Adams (Python) | Brent Williams (.NET) |
+|Andrii Glukhyi (Python) | {TA}
+
+## Mock interview Groups Day 44
+| Student  1       | Student     2      |
+| ------------- |:-------------:|
+|Keith Eckert (Python) | Jay Adams (Python) |
+|Adam Grandquist (Python) | Seokwon Kim (Python) |
+|Beverly Pham (Python) | George Ceja (Python) |
+|Patricia Raftery (Python) | Shannon Tully (Python) |
+|Ramon Mendoza (Python) | Steven Starwalt (Python) |
+|Brandon Holderman (Python) | Andrii Glukhyi (Python) |
+|Kevin Farrow (.NET) | Austin Matterson (Python) |
+|Tiger Hsu (.NET) | Caroline Cosgrove (Python) |
+|Jeremy Crawford (Python) | David Snowberger (Python) |
+|Gene Pieterson (Python) | Josh Taylor (.NET) |
+|Brent Williams (.NET) | Tyler Fishbone (Python) |
+|Philip Werner (.NET) | {TA}
+
+
 # Week 8 - 
 
 ## Mock interview Groups Day 39
