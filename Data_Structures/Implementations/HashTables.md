@@ -22,6 +22,9 @@ Upon completion, your Hashtable should be able to handle the following:
 1. Make a hashing algorithm that will determine and set the Key of your Key/Value Pair(Method Name: `GetHash(key)`)
 1. Handle collisions in the event that 2 keys equal the same
 
+## Tests
+
+
 ## Rubric
 - 7pts: Program meets all requirements described in implementation directions
 
