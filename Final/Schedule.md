@@ -28,7 +28,7 @@
 - CSS/HTML Styling
 
 ### Wednesday: <br /> 
-**redirect any urgent questions/concernts to Scott or Brian**
+**Redirect any urgent questions/concernts to Scott or Brian**
 
 **4:00pm**: Evening Demo 
 
